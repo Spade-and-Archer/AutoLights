@@ -16,6 +16,7 @@ namespace AutoLights
            Modes:
          * 0: White/Colour
          * 1: Disco 
+     * 
              */
     public class LogObj
     {
